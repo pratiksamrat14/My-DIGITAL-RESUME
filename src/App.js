@@ -5,7 +5,7 @@ import "./App.css";
 import Education from "./components/Education/Education";
 import Techstack from "./components/Techstack/Techstack";
 import Portfolio from "./components/Portfolio/Portfolio";
-import E from "./components/Endorsment/Endorsment";
+import Endorsement from "./components/Endorsment/Endorsment";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import { useContext } from "react";
@@ -28,9 +28,10 @@ function App() {
       <Education/>
       <Techstack />
       <Portfolio />
-      <E />
+      <Endorsement />
       <Contact />
       <Footer />
+      
     </div>
   );
 }

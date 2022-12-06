@@ -26,12 +26,13 @@ const Services = () => {
         {/* dark mode */}
         <span style={{ color: darkMode ? "white" : "" }}>As Fresher Some Of My</span>
         <span>Achievements & Certifications</span>
-        <spane>
+        <span>
           Some of my achievements are listed here ,if want to know more about ,
           <br />
           here you can download my resume just click on Download button 🤗
-        </spane>
-        <a href="https://drive.google.com/file/d/1IpIfc_lfnVeYLxf9z5cJBU-n9Qgqgq8b/view?usp=sharing" download>
+        </span>
+        
+        <a href="https://drive.google.com/file/d/16H1p0IgJUXnP5OieVuezX6utrzWkpc5e/view?usp=sharing" download>
           <button className="button s-button">Download CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
