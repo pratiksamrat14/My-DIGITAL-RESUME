@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/My-DIGITAL-RESUME/static/css/main.59633889.css",
+    "main.js": "/My-DIGITAL-RESUME/static/js/main.8764cb2b.js",
+    "static/media/todolist.png": "/My-DIGITAL-RESUME/static/media/todolist.1c15479b930493e37159.png",
+    "static/media/resturant.jpg": "/My-DIGITAL-RESUME/static/media/resturant.e73365caefa9d09fae04.jpg",
+    "static/media/pratik.png": "/My-DIGITAL-RESUME/static/media/pratik.07fa2907959a14afe122.png",
+    "static/media/weatherapp.png": "/My-DIGITAL-RESUME/static/media/weatherapp.f824914a9c5aa7c295de.png",
+    "static/media/intuition.jpg": "/My-DIGITAL-RESUME/static/media/intuition.8e7e91abdbc410b3e9e6.jpg",
+    "static/media/glassesimoji.png": "/My-DIGITAL-RESUME/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/node.png": "/My-DIGITAL-RESUME/static/media/node.9ca55ef7a084a4d145f8.png",
+    "static/media/profile3.jpg": "/My-DIGITAL-RESUME/static/media/profile3.88a95b1269a1af72ff28.jpg",
+    "static/media/profile1.jpg": "/My-DIGITAL-RESUME/static/media/profile1.039109ab07014257a395.jpg",
+    "static/media/profile4.jpg": "/My-DIGITAL-RESUME/static/media/profile4.5c868708c4a5a2cd77dc.jpg",
+    "static/media/react.png": "/My-DIGITAL-RESUME/static/media/react.e96daec71bb0c9ffd983.png",
+    "static/media/mern-stack.png": "/My-DIGITAL-RESUME/static/media/mern-stack.b3e18bdbd53dde64b0cb.png",
+    "static/media/mongoDB.png": "/My-DIGITAL-RESUME/static/media/mongoDB.352c8c1f298ce0cbc75f.png",
+    "static/media/thumbup.png": "/My-DIGITAL-RESUME/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/My-DIGITAL-RESUME/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/My-DIGITAL-RESUME/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/profile2.jpg": "/My-DIGITAL-RESUME/static/media/profile2.088598dc197e2d3119b7.jpg",
+    "static/media/wave.png": "/My-DIGITAL-RESUME/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/My-DIGITAL-RESUME/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/My-DIGITAL-RESUME/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/My-DIGITAL-RESUME/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/express.png": "/My-DIGITAL-RESUME/static/media/express.769d320f6b7fa3eca6e2.png",
+    "index.html": "/My-DIGITAL-RESUME/index.html",
+    "main.59633889.css.map": "/My-DIGITAL-RESUME/static/css/main.59633889.css.map",
+    "main.8764cb2b.js.map": "/My-DIGITAL-RESUME/static/js/main.8764cb2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59633889.css",
+    "static/js/main.8764cb2b.js"
+  ]
+}
